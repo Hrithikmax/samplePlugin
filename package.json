@@ -1,0 +1,25 @@
+{
+  "name": "Add",
+  "version": "1.0.0",
+  "description": "It is used to add two number",
+  "cordova": {
+    "id": "info.androidabcd.plugins.custom",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adarsh2619/MyPluginRepo.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "adarsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adarsh2619/MyPluginRepo/issues"
+  },
+  "homepage": "https://github.com/Adarsh2619/MyPluginRepo#readme"
+}
